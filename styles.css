@@ -1,6 +1,6 @@
 html, body 
 {
-	font-family: Arial;
+	font-family: Tahoma, sans-serif;
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -137,7 +137,7 @@ h3 {
 	background-color: #db4a26;
 	color: white;
 	display: flex; /*отцентровка*/
-		justify-content: center;
+	justify-content: center;
 	flex-direction: column;
 	align-items: flex-start;
 	text-align: left;
